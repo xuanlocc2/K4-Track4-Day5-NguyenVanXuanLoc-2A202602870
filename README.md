@@ -1,5 +1,15 @@
 # K4 · Track 4 · Ngày 5 — Kalman Filter Pilot
 
+## Bài nộp — Nguyễn Văn Xuân Lộc · 2A202602870
+
+- **Notebook nộp có output:** [kalman_fusion_lab_2A202602870.ipynb](Lab/kalman_fusion_lab_2A202602870.ipynb).
+- **Tổng hợp kết quả:** [LAB_SUMMARY.md](LAB_SUMMARY.md).
+- **Notebook làm việc:** [kalman_fusion_lab_STUDENT.ipynb](Lab/kalman_fusion_lab_STUDENT.ipynb).
+
+Đã hoàn thành 5.1, 5.2, 6.1, 7.1, Mission 9.1/9.2, báo cáo bốn mục và bonus EKF. Mission chẩn đoán UWB bị outlier burst, sửa bằng gate; pooled mean NIS sau sửa ≈ 2.13 (< 8). Cell cuối kiểm tra lại và in `✅ Lab Lynx-07 Complete`. Điểm chính thức do giảng viên xác nhận.
+
+---
+
 Bài lab 120 phút: từ số đo nhiễu đến một bộ theo dõi hợp nhất LiDAR, radar và camera, viết bằng NumPy. Buổi lab kết thúc bằng nhiệm vụ chẩn đoán cảm biến cho xe tự hành **Lynx-07**. Mỗi học viên nhận một quỹ đạo và một lỗi cảm biến riêng, sinh từ `STUDENT_ID`.
 
 ## Cấu trúc
